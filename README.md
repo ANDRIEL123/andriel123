@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![ Emblema do Gmail ](https://img.shields.io/badge/-cdajuniorf@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cdajuniorf@gmail.com)](mailto:cdajuniorf@gmail.com)
+[![ Emblema do Gmail ](https://img.shields.io/badge/-andrielmfriedrich@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrielmfriedrich@gmail.com)](mailto:andrielmfriedrich@gmail.com)
 
 <!--
 **ANDRIEL123/andriel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
