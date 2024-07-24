@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🌐 Socials:
-[[![ Emblema do Gmail ](https://img.shields.io/badge/-andrielmfriedrich@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrielmfriedrich@gmail.com)](mailto:andrielmfriedrich@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![ Emblema do Gmail ](https://img.shields.io/badge/-andrielmfriedrich@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrielmfriedrich@gmail.com)(mailto:andrielmfriedrich@gmail.com) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 <!--
 **ANDRIEL123/andriel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
